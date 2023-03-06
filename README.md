@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DionysiosKots
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Computer Engineering at University of Patras
+- 🌱 I’m currently studying Computer Engineering at University of Patras
 - 📫 How to reach me: dionysios.kotsis@gmail.com
 
 <!---
